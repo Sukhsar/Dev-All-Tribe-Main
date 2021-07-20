@@ -39,6 +39,7 @@
   </types>
   <types>
     <members>Broker__c-Broker Layout</members>
+    <members>Account-Account Layout</members>
     <members>Property__c-Property Layout</members>
     <name>Layout</name>
   </types>
